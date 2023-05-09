@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2023-05-09T07:47:24.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Hwi8PzIo-j7ZjCuEG-Mn" version="21.2.9" type="github">
+  <diagram name="Seite-1" id="-p93mq0qQruHynVGUrf7">
+    <mxGraphModel dx="743" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-1" value="George“,7" style="ellipse" parent="1" vertex="1">
+          <mxGeometry x="536" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-2" value="„Dora“,4" style="rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="374" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="dP_rJy5h0RPNv02rfpOn-1" target="dP_rJy5h0RPNv02rfpOn-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-4" value="„Omikron“,15" style="rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="698" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="dP_rJy5h0RPNv02rfpOn-1" target="dP_rJy5h0RPNv02rfpOn-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-6" value="„Bob“,2 " style="rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="dP_rJy5h0RPNv02rfpOn-2" target="dP_rJy5h0RPNv02rfpOn-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-8" value="„Fred“,6" style="rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="dP_rJy5h0RPNv02rfpOn-2" target="dP_rJy5h0RPNv02rfpOn-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-10" value="„Egon“,5" style="rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="dP_rJy5h0RPNv02rfpOn-8" target="dP_rJy5h0RPNv02rfpOn-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-12" value="„Charles“,3 " style="rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="dP_rJy5h0RPNv02rfpOn-6" target="dP_rJy5h0RPNv02rfpOn-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-14" value="„Ludwig“,12" style="rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="dP_rJy5h0RPNv02rfpOn-4" target="dP_rJy5h0RPNv02rfpOn-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-16" value="„Karl“,11" style="rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="dP_rJy5h0RPNv02rfpOn-14" target="dP_rJy5h0RPNv02rfpOn-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-18" value="„Martin“,13" style="rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="dP_rJy5h0RPNv02rfpOn-14" target="dP_rJy5h0RPNv02rfpOn-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-20" value="„Paul“, 16&#xa;" style="rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="782" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dP_rJy5h0RPNv02rfpOn-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="dP_rJy5h0RPNv02rfpOn-4" target="dP_rJy5h0RPNv02rfpOn-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
